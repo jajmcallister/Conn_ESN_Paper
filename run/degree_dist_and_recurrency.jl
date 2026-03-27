@@ -787,9 +787,6 @@ p111 = plot(s111, s121,
 
 p = plot(p11, p111, layout=(2,1), size=(700,900), tickfontsize=18, leftmargin=5mm)
 
-savefig(p, "C://Users/B00955735/OneDrive - Ulster University/Desktop/scatter_examples.svg")
-
-
 
 
 
