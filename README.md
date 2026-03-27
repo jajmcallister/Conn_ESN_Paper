@@ -1,6 +1,6 @@
 # Data Files and Code 
 
-This is the code and data files for our paper "Non-random brain connectome wiring enables robust neural network function under high sparsity" by James McAllister, Conor Houghton, John Wade, and Cian O'Donnell.
+This is the code and data files for our paper "Non-random brain connectome wiring enables robust and efficient neural network function under high sparsity" by James McAllister, Conor Houghton, John Wade, and Cian O'Donnell.
 
 ## Julia use:
 
