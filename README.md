@@ -25,7 +25,7 @@ The following packages and versions were used in the study:
 These are the data files for the networks in this study:
 
 ### esn_weight_matrices
-This folder (link:    ) contains the weight matrices for the Echo State Networks (ESNs) used in the paper. There are three subfolders: connectome-based, random (Erdos-Renyi), and configuration model (cfg) weight matrices. Within each of these subfolders, there are separate folders for larval and adult-based connectomes.
+This folder contains the weight matrices for the Echo State Networks (ESNs) used in the paper. There are three subfolders: connectome-based, random (Erdos-Renyi), and configuration model (cfg) weight matrices. Within each of these subfolders, there are separate folders for larval and adult-based connectomes.
 
 e.g.
 
